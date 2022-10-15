@@ -12,6 +12,11 @@ body {
   list-style-type: none;
   background-color: #fff;
 }
+option{
+background: #228b22;
+    color: #fff;
+    padding: 5px;
+}
 @media screen and (min-width: 320px) {
   /*Header Section*/
   header {
